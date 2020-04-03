@@ -1,0 +1,15 @@
+
+source activate tensorflow_env
+
+
+idle3 
+
+----
+file >> open
+
+run >> run module
+
+file >> close
+---
+
+conda deactivate
